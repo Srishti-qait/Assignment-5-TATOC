@@ -1,0 +1,4 @@
+Url : http://10.0.1.86/tatoc/
+dbUrl : jdbc:mysql://10.0.1.86/tatoc
+Username : tatocuser
+Password : tatoc01
